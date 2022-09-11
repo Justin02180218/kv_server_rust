@@ -1,0 +1,50 @@
+syntax = "proto3";
+
+package cmd;
+
+// 命令请求
+message CmdRequest {
+    oneof req_data {
+        Get get = 1;
+        Set set = 2;
+        Publish publish = 3;
+        Subscribe subscribe = 4;
+        Unsubscribe unsubscribe = 5;
+    }
+}
+
+// 服务器的响应
+message CmdResponse {
+    uint32 status = 1;
+    string message = 2;
+    bytes value = 3;
+}
+
+// 请求值命令
+message Get {
+    string key = 1;
+}
+
+// 存储值命令
+message Set {
+    string key = 1;
+    bytes value = 2;
+    uint32 expire = 3;
+}
+
+// 向Topic发布值命令
+message Publish {
+    string topic = 1;
+    bytes value = 2;
+}
+
+// 订阅Topic命令
+message Subscribe {
+    string topic = 1;
+}
+
+// 取消订阅命令
+message Unsubscribe {
+    string topic = 1;
+    uint32 id = 2;
+}
