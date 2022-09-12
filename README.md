@@ -3,6 +3,8 @@
 
 一，[用Rust实现KV Server-1 toml格式的配置文件](https://mp.weixin.qq.com/s?__biz=Mzg5MjA1ODYzNg==&amp;mid=2247484910&amp;idx=1&amp;sn=0ad64f90fa23d0660ec00bae2cc35fa5&amp;chksm=cfc2a88df8b5219bf7e5c307e197bb7f9f8d17a6e3b095c75b0941eb6a2b59032e5bc86f3a81&token=952668159&lang=zh_CN#rd)  
 
+二，[用Rust实现KV Server-2 协议层](https://mp.weixin.qq.com/s?__biz=Mzg5MjA1ODYzNg==&amp;mid=2247484929&amp;idx=1&amp;sn=5f3526c97bae2cedb74c38b8350b3bf1&amp;chksm=cfc2ab62f8b522740815c098db7f701c734e5890adb45c4191ca0ca8002eb9c543668b304984&token=624641150&lang=zh_CN#rd)  
+
 
 ### 代码详解，请关注微信公众号：coding到灯火阑珊
 
