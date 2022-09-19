@@ -5,6 +5,8 @@
 
 二，[用Rust实现KV Server-2 协议层](https://mp.weixin.qq.com/s?__biz=Mzg5MjA1ODYzNg==&amp;mid=2247484929&amp;idx=1&amp;sn=5f3526c97bae2cedb74c38b8350b3bf1&amp;chksm=cfc2ab62f8b522740815c098db7f701c734e5890adb45c4191ca0ca8002eb9c543668b304984&token=624641150&lang=zh_CN#rd)  
 
+三，[用Rust实现KV Server-3 命令行解析与内存存储](https://mp.weixin.qq.com/s?__biz=Mzg5MjA1ODYzNg==&amp;mid=2247484944&amp;idx=1&amp;sn=d44dc5c07e511bff6adf44aeb4235803&amp;chksm=cfc2ab73f8b52265f79f009fe5f32ecd2833cd9ea6b2cb7546539112571ef49b0a4fc8a32520&token=1482329986&lang=zh_CN#rd)  
+
 
 ### 代码详解，请关注微信公众号：coding到灯火阑珊
 
