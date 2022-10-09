@@ -9,6 +9,8 @@
 
 四，[用Rust实现KV Server-4 持久化存储及service层](https://mp.weixin.qq.com/s?__biz=Mzg5MjA1ODYzNg==&mid=2247484967&idx=1&sn=81f1e94a02259cd790630492d11a2401&chksm=cfc2ab44f8b52252d99b4b92047512e47920796eb9dcaf20af03a4cca6db41b6e150fb1c951f&token=1873892724&lang=zh_CN#rd)  
 
+五，[用Rust实现KV Server-5 事件通知和优雅关机](https://mp.weixin.qq.com/s?__biz=Mzg5MjA1ODYzNg==&amp;mid=2247484981&amp;idx=1&amp;sn=d18f5fffb09142ab54469dc989513fcb&amp;chksm=cfc2ab56f8b522403365c9900876c89aecea1d68a3b2fe90828d0f2708a6504fe7ba2c9420c1&token=1428688921&lang=zh_CN#rd)  
+
 
 ### 代码详解，请关注微信公众号：coding到灯火阑珊
 
