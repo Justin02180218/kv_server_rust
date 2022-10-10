@@ -11,6 +11,8 @@
 
 五，[用Rust实现KV Server-5 事件通知和优雅关机](https://mp.weixin.qq.com/s?__biz=Mzg5MjA1ODYzNg==&amp;mid=2247484981&amp;idx=1&amp;sn=d18f5fffb09142ab54469dc989513fcb&amp;chksm=cfc2ab56f8b522403365c9900876c89aecea1d68a3b2fe90828d0f2708a6504fe7ba2c9420c1&token=1428688921&lang=zh_CN#rd)  
 
+六，[用Rust实现KV Server-6 并发连接限制和测量监控](https://mp.weixin.qq.com/s?__biz=Mzg5MjA1ODYzNg==&amp;mid=2247485001&amp;idx=1&amp;sn=db11f093b9c801d6086f50e879d5919b&amp;chksm=cfc2ab2af8b5223c0e9cecf6cb86cb6c7555113d4ebb1b8d72a68dfd0a61d3693b05310b1590&token=934158258&lang=zh_CN#rd)  
+
 
 ### 代码详解，请关注微信公众号：coding到灯火阑珊
 
